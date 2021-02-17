@@ -1,0 +1,66 @@
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\bin\Debug\Nguyễn Văn Thanh(VB).exe.config
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\bin\Debug\Nguyễn Văn Thanh(VB).exe
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\bin\Debug\Nguyễn Văn Thanh(VB).pdb
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\bin\Debug\Nguyễn Văn Thanh(VB).xml
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn Văn Thanh(VB).vbprojAssemblyReference.cache
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form1.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Resources.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn Văn Thanh(VB).vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn Văn Thanh(VB).vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn Văn Thanh(VB).exe
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn Văn Thanh(VB).xml
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn Văn Thanh(VB).pdb
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form2.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form_chính.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.TestTK.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.TestTK2.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form3.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form4.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\bin\Debug\Nguyễn Văn Thanh(Access)_Backup - Copy.accdb
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form5.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form6.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form7.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form8.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form9.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form10.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form11.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form12.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form13.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form14.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form15.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form16.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form17.resources
+C:\Users\admin\source\repos\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form18.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\bin\Debug\Nguyễn Văn Thanh(Access)_Backup - Copy.accdb
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\bin\Debug\Nguyễn Văn Thanh(VB).exe.config
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\bin\Debug\Nguyễn Văn Thanh(VB).exe
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\bin\Debug\Nguyễn Văn Thanh(VB).pdb
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\bin\Debug\Nguyễn Văn Thanh(VB).xml
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn Văn Thanh(VB).vbprojAssemblyReference.cache
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form_chính.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form1.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form10.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form11.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form12.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form13.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form14.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form15.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form16.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form17.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form18.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form2.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form3.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form4.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form5.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form6.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form7.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form8.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Form9.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.TestTK2.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.TestTK.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn_Văn_Thanh_VB_.Resources.resources
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn Văn Thanh(VB).vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn Văn Thanh(VB).vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn Văn Thanh(VB).exe
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn Văn Thanh(VB).xml
+C:\Users\admin\Desktop\Nguyễn Văn Thanh(VB)\Nguyễn Văn Thanh(VB)\obj\Debug\Nguyễn Văn Thanh(VB).pdb
